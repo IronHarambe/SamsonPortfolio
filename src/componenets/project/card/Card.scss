@@ -1,7 +1,11 @@
 .card {
+  height: auto;
+
   .card__wrapper {
     img {
-      max-width: 400px;
+      max-width: 90%;
+      margin: 10px;
+      object-fit: contain;
     }
     .card__content {
     }
