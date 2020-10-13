@@ -1,5 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display:400,700,700i|Source+Sans+Pro");
+
+/* Headers */
+/* Font-Family: 'Playfair Display', Serif; */
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Source Sans Pro", Sans-Serif;
 }

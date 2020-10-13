@@ -17,7 +17,7 @@ function Project() {
           <Card
             title="JTravels"
             description="Brochure type websites for travelling to Japan!"
-            image="/images/ill.jpg"
+            image=""
           ></Card>
         </div>
       </div>

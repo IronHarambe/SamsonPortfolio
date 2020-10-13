@@ -10,10 +10,10 @@ function Home() {
           <h1>SAMSON JOSE</h1>
           <div className="content__text">
             <p>
-              Hi, I'm an aspiring <span>Software Devloper</span> with an intrest
-              in <span>Front-End-Development</span>. I have experience in
-              creating web related projects for University and Personalised
-              Projects. I'm pasionate about creating innovating and creative
+              Hi, I'm an aspiring <span>software devloper</span> with an intrest
+              in <span>front end development</span>. I have experience in
+              creating web related projects for university and personalised
+              projects. I'm pasionate about creating innovating and creative
               projects, that can engage with the users. Check out my projects
               below, as I will be updating it when I learn new tools!
             </p>

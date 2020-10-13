@@ -1,43 +1,46 @@
 .home {
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  justify-content: center;
+  height: 95vh;
+  background-color: #ffebe0;
 
   .about__wrapper {
     display: flex;
     flex-direction: column;
+    padding: 2em;
+    justify-content: center;
     align-items: center;
+    text-align: center;
+    gap: 2em;
 
     .content {
-      padding-right: 30px;
-      display: flex;
-      flex-direction: column;
-      gap: 30px;
-      align-items: center;
-
       h1 {
-        font-size: clamp(0.9rem, 2.5vh, 2rem);
+        font-family: "Playfair Display", Serif;
+        font-size: 40px;
+        font-weight: 700;
+        letter-spacing: 1.5px;
+        color: #0f5298;
       }
 
       .content__text {
-        font-size: clamp(0.3em, 1em, 2em);
+        letter-spacing: 1px;
+        padding: 0 10px;
+        line-height: 20px;
+        margin-top: 40px;
       }
 
       .btn {
-        width: 200px;
-        background-color: lightblue;
+        background-color: #0f5298;
         color: white;
+        letter-spacing: 2px;
+        width: 50%;
+        margin-top: 30px;
+        height: 50px;
       }
     }
 
     .picture {
-      padding-top: 60px;
       img {
-        height: 200px;
-        width: 200px;
+        width: 360px;
+        object-fit: contain;
       }
     }
   }
