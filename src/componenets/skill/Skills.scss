@@ -1,0 +1,38 @@
+.skills {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+  background-color: whitesmoke;
+  gap: 20px;
+
+  h1 {
+    font-family: "Playfair Display", Serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    color: #0f5298;
+  }
+
+  h2 {
+    font-family: "Playfair Display", Serif;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+    color: #0f5298;
+  }
+
+  .frontend,
+  .other {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 40px;
+    margin: 20px;
+    padding: 20px;
+  }
+}
