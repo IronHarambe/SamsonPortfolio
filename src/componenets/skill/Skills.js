@@ -16,12 +16,12 @@ function Skills() {
           <Skill title="Sass" image="/images/skill/sass.png"></Skill>
           <Skill title="Bootstrap" image="/images/skill/bootstrap.png"></Skill>
           <Skill title="Node" image="/images/skill/node.png"></Skill>
-          <Skill title="Git" image="/images/skill/git.png"></Skill>
+          <Skill title="Git" image="/images/skill/git.jpg"></Skill>
         </div>
 
         <h2>Other</h2>
         <div className="other">
-          <Skill title="Adobe XD" image="/images/skill/other/adobe.jpg"></Skill>
+          <Skill title="Adobe XD" image="/images/skill/other/adobe.png"></Skill>
           <Skill
             title="Firebase"
             image="/images/skill/other/firebase.png"

@@ -18,9 +18,9 @@ function Home() {
               below, as I will be updating it when I learn new tools!
             </p>
           </div>
-          <Button varient="dark" className="btn">
+         <a href="#projects"><Button varient="dark" className="btn">
             My Projects
-          </Button>
+          </Button></a> 
         </div>
         <div className="picture">
           <img src="/images/ill.jpg" alt="" />

@@ -2,7 +2,7 @@ import React from "react";
 import { FaGithub } from "react-icons/fa";
 import "./Card.scss";
 
-function Card({ title, description, image }) {
+function Card({ title, description, image, href }) {
   return (
     <div className="card">
       <div className="card__wrapper">
@@ -13,8 +13,8 @@ function Card({ title, description, image }) {
         </div>
 
         <div className="git">
-       
-          <FaGithub className="git__icon"></FaGithub>
+       <a href={href} target="_blank"><FaGithub className="git__icon"></FaGithub></a>
+          
         </div>
       </div>
     </div>
