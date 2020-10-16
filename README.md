@@ -1,4 +1,4 @@
-#Samson Jose Portfolio
+##Samson Jose Portfolio
 
 My current portfolio, which showcases my projects and skills!
 Created using React!
