@@ -19,18 +19,21 @@ function Project() {
             description="Brochure type websites for travelling to Japan! Created using HTML,CSS, JS!"
             image="/images/projects/jtravel.PNG"
             href="https://github.com/IronHarambe/JTravel"
+            src="https://ironharambe.github.io/JTravel/"
           ></Card>
             <Card
             title="Art Nation"
             description="Shopping e-commerse website for purchase of painting. "
             image="/images/projects/home2.PNG"
             href="https://github.com/IronHarambe/MFashion"
+            src="https://github.com/IronHarambe/MFashion"
           ></Card>
             <Card
             title="Old Portfolio"
             description="First portfolio website using html, css and js. "
             image="/images/projects/old.PNG"
             href="https://github.com/IronHarambe/portfolio"
+            src="https://ironharambe.github.io/portfolio/"
           ></Card>
        
           
