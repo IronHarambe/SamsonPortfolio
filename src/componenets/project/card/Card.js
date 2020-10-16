@@ -1,4 +1,5 @@
 import React from "react";
+import { FaGithub } from "react-icons/fa";
 import "./Card.scss";
 
 function Card({ title, description, image }) {
@@ -9,6 +10,11 @@ function Card({ title, description, image }) {
         <div className="card__content">
           <h1>{title}</h1>
           <p>{description}</p>
+        </div>
+
+        <div className="git">
+       
+          <FaGithub className="git__icon"></FaGithub>
         </div>
       </div>
     </div>

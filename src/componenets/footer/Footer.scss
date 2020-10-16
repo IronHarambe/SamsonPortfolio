@@ -1,0 +1,18 @@
+.footer {
+  background-color: #ffebe0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 20px;
+
+  .content {
+    letter-spacing: 1px;
+    padding: 20px;
+    line-height: 20px;
+
+    h2 {
+      font-weight: 700;
+    }
+  }
+}

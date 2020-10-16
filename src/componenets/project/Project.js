@@ -16,12 +16,12 @@ function Project() {
         <div className="cards">
           <Card
             title="JTravels"
-            description="Brochure type websites for travelling to Japan!"
+            description="Brochure type websites for travelling to Japan! Created using HTML,CSS, JS!"
             image="/images/projects/jtravel.PNG"
           ></Card>
             <Card
-            title="ART NATION"
-            description="Shopping e-commerse website for purchase of painting. Has add cart and checkout functions."
+            title="Art Nation"
+            description="Shopping e-commerse website for purchase of painting. "
             image="/images/projects/home2.PNG"
           ></Card>
             <Card
