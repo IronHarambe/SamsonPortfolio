@@ -4,7 +4,7 @@ import { Button } from "@material-ui/core";
 
 function Home() {
   return (
-    <div className="home">
+    <div className="home" id="home">
       <div className="about__wrapper">
         <div className="content">
           <h1>SAMSON JOSE</h1>

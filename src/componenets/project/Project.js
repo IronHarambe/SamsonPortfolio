@@ -4,7 +4,7 @@ import "./Project.scss";
 
 function Project() {
   return (
-    <div className="project">
+    <div className="project" id="projects">
       <div className="project__wrapper">
         <div className="intro">
           <h1>My Projects!</h1>
