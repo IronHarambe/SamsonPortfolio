@@ -13,7 +13,7 @@ function Card({ title, description, image, href }) {
         </div>
 
         <div className="git">
-       <a href={href} target="_blank"><FaGithub className="git__icon"></FaGithub></a>
+       <a href={href} target="_blank" rel="noopener noreferrer"><FaGithub className="git__icon"></FaGithub></a>
           
         </div>
       </div>
