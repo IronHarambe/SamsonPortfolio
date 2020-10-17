@@ -1,3 +1,4 @@
+/* Navbar for the website, to navigate to other pages */
 import React from "react";
 import { Navbar, Nav } from "react-bootstrap";
 import "./Header.scss"

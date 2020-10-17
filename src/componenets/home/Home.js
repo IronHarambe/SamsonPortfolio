@@ -1,6 +1,8 @@
+/* Home about me page. Contains information about me and iconstack */
 import React from "react";
 import "./Home.scss";
 import { Button } from "@material-ui/core";
+import IconStack from "../icon-stack/IconStack";
 
 function Home() {
   return (
@@ -18,6 +20,7 @@ function Home() {
               below, as I will be updating it when I learn new tools!
             </p>
           </div>
+          <IconStack></IconStack>
          <a href="#projects"><Button varient="dark" className="btn">
             My Projects
           </Button></a> 

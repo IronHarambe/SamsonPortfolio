@@ -1,3 +1,5 @@
+/* Individual project item, with github link and link to website by clicking an image */
+
 import React from "react";
 import { FaGithub } from "react-icons/fa";
 import "./Card.scss";

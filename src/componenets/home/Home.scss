@@ -27,11 +27,15 @@
         margin-top: 40px;
       }
 
+      .icon {
+        font-size: 40px;
+      }
+
       .btn {
         background-color: #0f5298;
         color: white;
         letter-spacing: 2px;
-        width: 50%;
+        width: 200px;
         margin-top: 30px;
         height: 50px;
 
@@ -45,6 +49,90 @@
       img {
         width: 360px;
         object-fit: contain;
+      }
+    }
+  }
+}
+
+@media (min-width: 1070px) {
+  .home {
+    .about__wrapper {
+      gap: 10px;
+      // padding: 3em;
+      .content {
+        h1 {
+          font-size: 53px;
+        }
+
+        .content__text {
+          font-size: 20px;
+          line-height: 22px;
+          margin-top: 30px;
+          padding: 0 40px;
+        }
+
+        .btn {
+          width: 250px;
+          height: 60px;
+        }
+      }
+
+      .picture {
+        img {
+          width: 500px;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 1500px) {
+  .home {
+    .about__wrapper {
+      // padding: 3em;
+      .content {
+        h1 {
+          font-size: 60px;
+        }
+
+        .content__text {
+          font-size: 25px;
+          line-height: 30px;
+          margin-top: 30px;
+          padding: 0 40px;
+        }
+
+        .btn {
+          width: 250px;
+          height: 60px;
+        }
+      }
+
+      .picture {
+        img {
+          width: 500px;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 1750px) {
+  .home {
+    .about__wrapper {
+      // padding: 3em;
+
+      .content {
+        .btn {
+          width: 400px;
+          height: 80px;
+        }
+      }
+
+      .picture {
+        img {
+          width: 650px;
+        }
       }
     }
   }

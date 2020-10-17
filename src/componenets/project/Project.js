@@ -1,3 +1,4 @@
+/* Lists the diffrent projects that I have created, with github link and link to the website */
 import React from "react";
 import Card from "./card/Card";
 import "./Project.scss";

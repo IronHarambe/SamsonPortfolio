@@ -1,3 +1,4 @@
+/* List of icons for github, linked in and pdf which contains resime link */
 import React from 'react'
 import "./IconStack.scss"
 

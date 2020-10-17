@@ -1,3 +1,5 @@
+/* Portfolio website which showcases projects and skills
+Created By Samson Jose */
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";

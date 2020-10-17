@@ -1,3 +1,4 @@
+/* List of skills as image items, which indicate learned skills */
 import React from "react";
 import Skill from "./skill/Skill";
 import "./Skills.scss";

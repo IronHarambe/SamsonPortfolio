@@ -1,3 +1,5 @@
+/* The Footer for the website, which containes personal information and links */
+
 import React from 'react'
 import IconStack from '../icon-stack/IconStack'
 import "./Footer.scss"

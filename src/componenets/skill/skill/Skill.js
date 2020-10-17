@@ -1,3 +1,4 @@
+/* Individual Skill component, which contains an image and title */
 import React from "react";
 import "./Skill.scss";
 
