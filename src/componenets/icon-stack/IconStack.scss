@@ -4,4 +4,10 @@
   justify-content: center;
   gap: 30px;
   margin-top: 20px;
+
+  a {
+    &:hover {
+      color: palevioletred;
+    }
+  }
 }

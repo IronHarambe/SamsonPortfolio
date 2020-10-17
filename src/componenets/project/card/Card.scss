@@ -42,6 +42,12 @@
     .git {
       margin: 5px;
       font-size: 40px;
+
+      a {
+        &:hover {
+          color: palevioletred;
+        }
+      }
     }
   }
 }
