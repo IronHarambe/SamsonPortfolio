@@ -14,7 +14,14 @@ function Project() {
             websites that can solve real world problems.
           </p>
         </div>
-        <div className="cards">
+        <div className="cards"> 
+        <Card
+            title="V + R"
+            description="VR & AR service product website!. Created using React. "
+            image="/images/projects/v+r.PNG"
+            href="https://github.com/IronHarambe/v-r"
+            src="https://v-r.netlify.app/"
+          ></Card>
           <Card
             title="JTravels"
             description="Brochure type websites for travelling to Japan! Created using HTML,CSS, JS!"
@@ -22,6 +29,7 @@ function Project() {
             href="https://github.com/IronHarambe/JTravel"
             src="https://ironharambe.github.io/JTravel/"
           ></Card>
+         
             <Card
             title="Art Nation"
             description="Shopping e-commerse website for purchase of painting. "
